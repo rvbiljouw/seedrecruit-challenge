@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">1</int>
+        <lst name="params">
+            <str name="q">user_id:254</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="1" start="0">
+        <doc>
+            <str name="user_last_name">Munden</str>
+            <str name="user_id">254</str>
+            <date name="doc_upload_date">2013-10-15T00:00:00Z</date>
+            <str name="linkedin_positions">
+                {"_total":8,"values":[{"company":{"industry":"Design","name":"Freelance"},"id":441714457,"isCurrent":true,"startDate":{"month":8,"year":2013},"title":"Graphic
+                Designer &amp; Artworker"},{"company":{"id":407310,"industry":"Medical Devices","name":"Olympus
+                KeyMed","size":"1001-5000 employees","type":"Privately
+                Held"},"endDate":{"month":8,"year":2013},"id":180936339,"isCurrent":false,"startDate":{"month":4,"year":2000},"title":"Senior
+                Graphic Designer"},{"company":{"industry":"Design","name":"Thames Card
+                Technology"},"endDate":{"month":4,"year":2000},"id":441715619,"isCurrent":false,"startDate":{"month":4,"year":1998},"title":"Design
+                Studio Manager"},{"company":{"industry":"Design","name":"Fairway Litho
+                Print"},"endDate":{"month":4,"year":1998},"id":441715906,"isCurrent":false,"startDate":{"month":11,"year":1995},"title":"Designer,
+                Typesetter and Scitex System Operator"},{"company":{"industry":"Design","name":"Cloverleaf
+                Graphics"},"endDate":{"month":11,"year":1995},"id":441716075,"isCurrent":false,"startDate":{"month":6,"year":1991},"title":"Designer,
+                Typesetter and Crosfield System Operator"},{"company":{"industry":"Design","name":"Kall-Kwik
+                Printing"},"endDate":{"month":6,"year":1991},"id":441716218,"isCurrent":false,"startDate":{"month":6,"year":1989},"title":"Head
+                of Art Department"},{"company":{"industry":"Design","name":"Redlin Print
+                Limited"},"endDate":{"month":3,"year":1989},"id":441716382,"isCurrent":false,"startDate":{"month":7,"year":1987},"title":"Graphic
+                Designer"},{"company":{"industry":"Design","name":"Creative Services Ltd &amp; Pip
+                Printers"},"endDate":{"month":7,"year":1987},"id":441718488,"isCurrent":false,"startDate":{"month":6,"year":1986},"title":"Graphic
+                Designer"}]}
+            </str>
+            <str name="user_locations">Southend on Sea, United Kingdom</str>
+            <str name="linkedin_skills">{"_total":5,"values":[{"id":1,"skill":{"name":"Adobe Creative
+                Suite"}},{"id":2,"skill":{"name":"InDesign"}},{"id":3,"skill":{"name":"Graphics"}},{"id":13,"skill":{"name":"Exhibition
+                Stands"}},{"id":14,"skill":{"name":"Plastic Printing"}}]}
+            </str>
+            <str name="id">254</str>
+            <str name="name">Graphic Designer</str>
+            <str name="user_first_name">Tracy</str>
+            <str name="linkedin_summary"/>
+            <date name="last_modified">2013-09-20T09:17:00Z</date>
+            <arr name="content_type">
+                <str>application/vnd.openxmlformats-officedocument.wordprocessingml.document</str>
+            </arr>
+            <arr name="content">
+                <str>Name: Tracy Georgina Munden Address: 289 London Road, Benfleet, Essex SS7 5XP Telephone: Mobile:
+                    07572 547871 Email: tgmdesign@hotmail.co.uk Education: Jotmans Hall Primary School (1975-1981)
+                    Appleton Secondary School (1981-1986) Further Education: Gourley College (1986-1988) Qualifications:
+                    English Language O-Level B French O-Level D English Literature O-Level C Physics CSE 3 Mathematics
+                    O-Level C Chemistry CSE 3 History O-Level C Art CSE 3 North Western Regional Advisory Council for
+                    Further Education (NWRAC): Graphic Technology Course Graphic Imagery (A) Credit Lettering and Design
+                    Pass Graphic Imagery (B) Credit Process Camera Techniques Pass Systems Used: Apple Macintosh,
+                    Crosfield Pat/Sunsparc and Studiobank/Studiostream, Scitex System, Ryobi and Konica Digital Press.
+                    Applications Used: QuarkXpress, Photoshop, Illustrator, InDesign, Dreamweaver, Communigator,
+                    Pagemaker, ADS, Flightchecker, Preps, Scitex Gateway Tools, Scitex Colourfill. Olympus KeyMed KeyMed
+                    House, Stock Road, Southend-on-Sea, Essex. Position: Senior Graphic Designer April 2000 - August
+                    2013 I was employed here to design and produce final print ready artwork for our in-house print
+                    room. I produced a variety of artwork from simple stationery and course literature to full colour
+                    brochures and promotional leaflets, as well as slides for web sites and powerpoint presentations. I
+                    also produced designs for product launches, banner stands and give away items for exhibitions and
+                    in-house courses, for example; bags, polo-shirts, plaques, pens and DVD covers. Recently I had been
+                    producing more promotional literature, packaging and adverts for the Olympus camera ranges and also
+                    emailers for marketing purposes. The company supported many charities and schools, therefore I was
+                    expected to liaise directly with clients and to oversee all projects from start to finish, including
+                    approving all printed items and ensuring delivery to the clients. Thames Card Technology Thames
+                    House, Arterial Road, Rayleigh, Essex. Position: Studio Manager April 1998 - April 2000 I was
+                    employed here to oversee the installation of the Scitex colour system within the Studio department.
+                    I managed all production of work and trained other members of staff to operate the system and to use
+                    the Iris Realist proofer and Dolev 4Press. I liaised directly with clients and with our Sales
+                    Representatives on a daily basis. The work I produced was mainly laminated cards, store cards and
+                    various forms of plastic printing. Fairway Litho Print Services Limited 3/4 Seax Way, Southfields
+                    Industrial Park, Laindon, Essex. Position: Designer, Typesetter and Scitex System Operator November
+                    1995 - April 1998 I was employed here to produce final film, Iris Realist colour proofs and page
+                    layout for the Scitex system. I produced a variety of work but mainly magazines, posters and
+                    computer game packages. I also designed and typeset brochures, business stationery and adverts for
+                    magazines. A few of the magazines were produced with APR pictures, for which I was responsible. All
+                    files and pictures were sent and received using ISDN or Modem lines. I was expected to liaise with
+                    clients on their requirements and keep all digital information and relevant paperwork. Cloverleaf
+                    Graphics Charfleets Farm Industrial Park, Canvey Island, Essex. Position: Designer, Typesetter and
+                    Crosfield System Operator June 1991 - November 1995 I was employed here to operate a Crosfield
+                    Colour System to produce four colour film. I typeset on an Apple Macintosh using a variety of
+                    programmes. I originally used a Crosfield Pat/Sunsparc System and then a Crosfield Studiostream and
+                    Studiobank System. I produced a variety of work but mainly brochures, magazines, compact disc, video
+                    and album sleeves. I was the only System operator and was expected to work without supervision to
+                    meet deadlines. I also trained three other members of staff to use the system and was expected to
+                    liaise directly with many of our clients. Kall-Kwik Printing 32 Southchurch Road, Southend-on-Sea,
+                    Essex. Position: Head of Art Department March 1989 - June 1991 At this company I started to design
+                    and typeset on an Apple Macintosh, I was self taught using the supplied manuals. The work was
+                    varied, from general stationery to full colour brochures. I was expected to take briefs directly
+                    from clients and produce camera ready and colour separated artwork, for our in-house printing
+                    department. I used a Copy Lyn camera to produce logos and photographs and was expected to draw new
+                    logos either on the Apple Macintosh or by hand. I also taught two trainees how to use the Apple
+                    Macintosh and camera. Redlin Print Limited Manor Road Trading Estate, Benfleet, Essex. Position:
+                    Graphic Designer July 1987 - March 1989 I started as a trainee and progressed to a full-time
+                    employee. I was the only artist and designed and produced all artwork without supervision. I used an
+                    Agfa 2001 camera and also made negatives and plates. I produced a variety of work from general
+                    stationery to full colour brochures. College / Work Experience June 1986 - July 1987 During this
+                    time I attended college and also worked as a trainee to learn Graphic Design, originally hand
+                    drawing artwork using Letraset and Rotoring pens. I worked within two companies, Pip Printers and
+                    Creative Services Limited. I was taught how to use camera’s to produce negatives and film for
+                    artwork and also how to layout and space text. Later I learnt how to split artwork to produce film
+                    and colour plates for printing.
+                </str>
+            </arr>
+            <long name="_version_">1449143311563489280</long>
+        </doc>
+    </result>
+</response>

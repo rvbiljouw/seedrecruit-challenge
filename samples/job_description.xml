@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">0</int>
+        <lst name="params">
+            <str name="q">id:2</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="1" start="0">
+        <doc>
+            <str name="job_location">London</str>
+            <str name="id">2</str>
+            <str name="job_type">Permanent</str>
+            <str name="job_company">MarketInvoice</str>
+            <str name="job_title">PHP Developer</str>
+            <str name="salary_bracket_min">0</str>
+            <str name="salary_bracket_description">Salary Not Specified</str>
+            <str name="job_last_updated">2013-08-29 00:39:06.0
+            </str>
+            <str name="job_description">We are looking for a PHP Developer with basic web development skills to join our
+                tech team. This is a uni
+                que opportunity to work in one of the best multi-award winning financial start-ups in London and make a
+                difference. You will be working along one of the co-founders
+                The successful candidate will have a computer science degree or just have that natural flair and talent
+                for web development that allows them to stand above the cro
+                Please apply below. Applicants must be eligible to work in the UK. Applicants must be able to sit with a
+                team based in Mayfair, London.
+            </str>
+            <str name="job_expiry_date">2013-10-28 00:38:44.0
+            </str>
+            <str name="salary_bracket_max">85000</str>
+            <str name="job_ref">MKRI9293</str>
+            <str name="job_hours">Full-time</str>
+            <str name="job_post_date">2013-08-29 00:38:44.0
+            </str>
+            <long name="_version_">1449143284743012352</long>
+        </doc>
+    </result>
+</response>

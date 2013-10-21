@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">1</int>
+        <lst name="params">
+            <str name="q">user_id:20</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="1" start="0">
+        <doc>
+            <str name="user_last_name">Firth</str>
+            <str name="user_id">20</str>
+            <str name="linkedin_positions">
+                {"_total":6,"values":[{"company":{"id":3088588,"industry":"Music","name":"Tuneit","size":"1-10
+                employees","type":"Public
+                Company"},"id":425834855,"isCurrent":true,"startDate":{"month":6,"year":2013},"summary":"The
+                next-generation music
+                player","title":"Founder"},{"company":{"id":633746,"industry":"Retail","name":"Arcadia Group
+                Ltd","size":"10,001+ employees","type":"Privately
+                Held"},"endDate":{"month":6,"year":2013},"id":149927423,"isCurrent":false,"startDate":{"month":9,"year":2010},"summary":"I
+                head up Customer Experience for Arcardia, in the Group Ecommerce team responsible for ensuring
+                Arcadia\u02bcs ROI in Ecommerce across its 8 key brands; Topshop, \nTopman, Miss Selfridge, Dorothy
+                Perkins, Wallis, Evans, Burton and BHS. I work with brand ecommerce teams (Heads of Ecommerce and
+                Managers), Brand Directors, systems, logistics, and third parties to optimise the existing customer
+                experience and develop new propositions. I use customer research, market insight, best practice and
+                strategy to drive improvements to the user experience across digital sales channels, delivery and
+                returns processes and customer services. I manage the development and delivery of new functionality
+                across these channels (including mobile).\n\n- I present research, strategy, plans and online
+                performance to key internal stakeholders including the CEO, Heads of Ecommerce and the Brand Online
+                Teams\n\n- I own the user experience of all Arcadia\u02bcs sites. I launched an improved checkout to
+                reduce customer fallout and defined the messaging of the new Deliver to Store proposition. I designed
+                the new international journey for 30 new local-language, local currency sites\n\n- I introduced a
+                continuous programme of multi-variate testing; boosting key conversion metrics by 5% and enabling
+                designers and marketers to base decisions on data rather than opinion\n\nI am currently launching 5
+                iPhone apps for Topman, Wallis, Evans, Dorothy Perkins, Burton, all in time for peak. I will be
+                launching iPad apps for those brands in the new year. \n\nI am the Arcadia in-house mobile expert. In
+                2011 I launched 9 mobile sites, doubling our mobile revenue. The sites were cited as the \u02bbbest
+                mobile checkout of the top 20 retailers\u02bc (http:\/\/bit.ly\/LpF9Qi) and the best mobile landing page
+                in online fashion (http:\/\/bit.ly\/KMl7Az). \n\n- I overhauled online delivery packaging; improved
+                packing processes and introduced new deliver-to-store friendly branded carrier bags","title":"Group
+                Customer Experience Manager"},{"company":{"industry":"Internet","name":"Map
+                Digital"},"endDate":{"month":1,"year":2011},"id":121797295,"isCurrent":false,"startDate":{"month":8,"year":2009},"summary":"Role
+                Description: Started a digital consultancy specialising in web design, usability and project
+                delivery\n\n- Usability design of product, search and category pages for Blacks Leisure Group\n\n-
+                Launched 'Buy Now Collect at Glastonbury' project for Millets. Consultancy for Testbed
+                Audio","title":"Digital Consultant"},{"company":{"industry":"Retail","name":"DSGi
+                PLC"},"endDate":{"month":5,"year":2010},"id":46777282,"isCurrent":false,"startDate":{"month":2,"year":2008},"summary":"\u2022\tDeveloped
+                DSGi\u2019s new e-commerce platform, in a \u00a37.5m programme to deliver new websites, tools and ways
+                of working to the \u00a3600M UK Direct businesses. \n\u2022\tRe-defined the group\u2019s online
+                marketing, content and web design business processes. \n\u2022\tDeveloped a new operating model for the
+                e-commerce team of 70, reducing costs by 10%.\n\u2022\tEnsured the needs of the entire business are
+                understood and met, and stakeholders are engaged. \n\u2022\tDefined the customer experience; ensuring
+                the sites and tools are usable and accessible, and met the needs of the current UK digital
+                market.","title":"E-Commerce Change Manager"},{"company":{"industry":"Retail","name":"DSGi
+                PLC","size":"10,001+
+                employees"},"endDate":{"month":2,"year":2008},"id":29079603,"isCurrent":false,"startDate":{"month":4,"year":2007},"summary":"\u2022\tStreamlined
+                the Currys online team\u2019s business processes; improved communications between teams to increase
+                productivity and improve relationships. Executed a paid search management tool, driving a direct
+                increase in sales revenue of \u00a34.5m from 2007 to 2008.\n\u2022\tDeveloped the Currys user
+                experience; re-designed the checkout process and created online video content, customer reviews and
+                buyers\u2019 guides as a response to customer survey results. \n\u2022\tLaunched a new product page
+                which is more accessible, user friendly, search engine-friendly, and increased \u2018add to basket\u2019
+                clicks by 0.4% from 07-08, as well as driving attachment rates. Ensuring successful product launch
+                through staff training.","title":"Online Development Manager"},{"company":{"industry":"Online
+                Media","name":"Art Empire Industries Ltd","size":"1-10
+                employees"},"endDate":{"month":12,"year":2005},"id":31981046,"isCurrent":false,"startDate":{"month":12,"year":2002},"summary":"\u2022\tDeveloped
+                the online portal; delivered engaging interactive audio, video and mobile content and managed an
+                award-winning forum community. Improved global audience, increasing monthly unique visitors from 170k to
+                350k between 2002 and 2005. \n\u2022\tGrew revenue streams; managed mobile content sales and a mobile
+                subscription service. Increased online advertising revenue from \u00a38k to \u00a315k per month through
+                new ad placements (such as audio and video interstitials) and developing strategic
+                partnerships.\n\u2022\tCo-ordinated content for cross-platform promotional campaigns, including the
+                Fabio &amp; Grooverider, Andy C and DJ Zinc Mix CDs, and the \u201950 of the Biggest D&amp;B
+                Rollers\u2019 CD; which reached no. 3 in the UK compilation chart with 250,000 sales to
+                date.\n\u2022\tProducing content; sourcing and editing news, competitions, images, ringtones and
+                audio-visual content for delivery across multiple channels. Managing production teams at events across
+                Europe; running live video webcasts to thousands of viewers.","title":"Digital Producer"}]}
+            </str>
+            <str name="user_locations">London, United Kingdom</str>
+            <str name="linkedin_skills">{"_total":12,"values":[{"id":12,"skill":{"name":"Digital
+                Marketing"}},{"id":13,"skill":{"name":"Online
+                Advertising"}},{"id":14,"skill":{"name":"Accessibility"}},{"id":15,"skill":{"name":"User-centered
+                Design"}},{"id":16,"skill":{"name":"E-business"}},{"id":17,"skill":{"name":"Digital Project
+                Management"}},{"id":18,"skill":{"name":"Cross-platform
+                Development"}},{"id":19,"skill":{"name":"E-commerce"}},{"id":20,"skill":{"name":"Digital
+                Strategy"}},{"id":21,"skill":{"name":"Web
+                Analytics"}},{"id":22,"skill":{"name":"SEO"}},{"id":23,"skill":{"name":"Web Project Management"}}]}
+            </str>
+            <str name="id">20</str>
+            <str name="user_first_name">Henry</str>
+            <str name="linkedin_summary">A creative, highly commercial, entrepreneurial digital expert with a solid
+                background in communities, content and e-commerce.
+            </str>
+            <arr name="content_type">
+                <str>text/plain; charset=ISO-8859-1</str>
+            </arr>
+            <arr name="content">
+                <str></str>
+            </arr>
+            <long name="_version_">1446379046558498816</long>
+        </doc>
+    </result>
+</response>

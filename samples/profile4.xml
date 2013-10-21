@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">0</int>
+        <lst name="params">
+            <str name="q">user_id:31</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="1" start="0">
+        <doc>
+            <str name="user_last_name">Dennis</str>
+            <str name="user_id">31</str>
+            <str name="linkedin_positions">
+                {"_total":6,"values":[{"company":{"id":2269262,"industry":"Retail","name":"Flubit Limited","size":"11-50
+                employees","type":"Privately
+                Held"},"id":266583708,"isCurrent":true,"startDate":{"month":2,"year":2012},"summary":"Developed systems
+                that manages the back end process from demand to deal creation. Did Automated Product Match for the
+                demands.","title":"Web
+                Developer"},{"company":{"industry":"Internet","name":"Netcells.net"},"endDate":{"month":2,"year":2012},"id":268188894,"isCurrent":false,"startDate":{"month":9,"year":2011},"summary":"Worked
+                as a webdeveloper on netcells and made netcell user sites as per the main framework and architecture ,
+                also developed onecell a low cost content and hosting space management system for netcells users, using
+                codeigniter and jquery library.","title":"Senior
+                Webdeveloper"},{"company":{"id":2354019,"industry":"Internet","name":"Finfolk Digital
+                Media","size":"Myself Only","type":"Public
+                Company"},"endDate":{"month":8,"year":2011},"id":351323491,"isCurrent":false,"startDate":{"month":8,"year":2011},"title":"Freelance
+                Webdeveloper"},{"company":{"id":4532,"industry":"Telecommunications","name":"TalkTalk","size":"10,001+
+                employees","ticker":"TALK","type":"Public
+                Company"},"endDate":{"month":5,"year":2011},"id":222225554,"isCurrent":false,"startDate":{"month":2,"year":2011},"title":"PHP
+                Developer"},{"company":{"id":245755,"industry":"Media Production","name":"InfoWave
+                Knowledgeware","type":"Privately
+                Held"},"endDate":{"month":5,"year":2010},"id":162837756,"isCurrent":false,"startDate":{"month":2,"year":2008},"summary":"Worked
+                as a Leading PHP programmer for research and implementation of various projects in PHP and other latest
+                web technologies.","title":"PHP Programmer"},{"company":{"id":12770,"industry":"Information Technology
+                and Services","name":"UST Global","type":"Privately
+                Held"},"endDate":{"month":4,"year":2006},"id":162839560,"isCurrent":false,"startDate":{"month":10,"year":2005},"summary":"Worked
+                as a Technical Support Engineer for US retail Major Ahold using UNIX and Oracle application
+                development.","title":"Technical Support Engineer"}]}
+            </str>
+            <str name="user_locations">London, United Kingdom</str>
+            <str name="linkedin_skills">
+                {"_total":30,"values":[{"id":3,"skill":{"name":"jQuery"}},{"id":4,"skill":{"name":"PHP"}},{"id":5,"skill":{"name":"JavaScript"}},{"id":6,"skill":{"name":"MySQL"}},{"id":7,"skill":{"name":"CodeIgniter"}},{"id":14,"skill":{"name":"AJAX"}},{"id":15,"skill":{"name":"Linux"}},{"id":16,"skill":{"name":"XML"}},{"id":17,"skill":{"name":"Java"}},{"id":18,"skill":{"name":"Eclipse"}},{"id":19,"skill":{"name":"Subversion"}},{"id":20,"skill":{"name":"Unix"}},{"id":21,"skill":{"name":"MVC"}},{"id":22,"skill":{"name":"XHTML"}},{"id":23,"skill":{"name":"CSS"}},{"id":24,"skill":{"name":"JSON"}},{"id":25,"skill":{"name":"HTML
+                5"}},{"id":26,"skill":{"name":"Web
+                Applications"}},{"id":27,"skill":{"name":"OOP"}},{"id":28,"skill":{"name":"Database
+                Design"}},{"id":29,"skill":{"name":"Web Development"}},{"id":30,"skill":{"name":"Web
+                Services"}},{"id":32,"skill":{"name":"HTML"}},{"id":33,"skill":{"name":"LAMP"}},{"id":34,"skill":{"name":"Git"}},{"id":35,"skill":{"name":"Apache"}},{"id":36,"skill":{"name":"WordPress"}},{"id":37,"skill":{"name":"Front-end"}},{"id":38,"skill":{"name":"Ruby
+                on Rails"}},{"id":39,"skill":{"name":"Zend Framework"}}]}
+            </str>
+            <str name="id">31</str>
+            <str name="user_first_name">Riya</str>
+            <str name="linkedin_summary"/>
+            <arr name="content_type">
+                <str>text/plain; charset=ISO-8859-1</str>
+            </arr>
+            <arr name="content">
+                <str></str>
+            </arr>
+            <long name="_version_">1446379048554987520</long>
+        </doc>
+    </result>
+</response>
