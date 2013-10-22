@@ -15,6 +15,7 @@ class Candidate(object):
         self.last_name = get_solr_str(doc, 'user_last_name')
         self.locations = get_solr_str(doc, 'user_locations')
         self.resume = get_solr_arr(doc, 'content')
+        self.summary = get_solr_str(doc, 'linkedin_summary')
         self.score = 0
 
         positions = loads(get_solr_str(doc, 'linkedin_positions'))['values']

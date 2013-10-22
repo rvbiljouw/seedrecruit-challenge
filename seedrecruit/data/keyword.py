@@ -44,7 +44,6 @@ class WordNetKeywordPool(AbstractKeywordPool):
     """
 
     def __init__(self):
-        nltk.download("wordnet")
         self.corpus = nltk.corpus.wordnet
 
     def get_similar(self, word):

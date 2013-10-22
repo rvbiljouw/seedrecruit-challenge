@@ -26,12 +26,27 @@ class KeywordClassifier(AbstractClassifier):
         super(KeywordClassifier, self).__init__(keyword_pool)
 
     def get_score(self, job, candidate):
+        total_score = 0
+
         keywords = self.keyword_pool.extract_from(job.description)
-        resume_kw = self.keyword_pool.extract_from(candidate.resume)
-        matching_kw = filter(lambda x: self.has_similar(keywords, x),
-                             resume_kw)
-        if len(matching_kw) > 0:
-            return (float(len(matching_kw)) / float(len(resume_kw))) * 100
+        if candidate.resume:
+            resume_kw = self.keyword_pool.extract_from(candidate.resume)
+            resume_mkw = filter(lambda x: self.has_similar(keywords, x),
+                                resume_kw)
+            if len(resume_mkw) > 0:
+                total_score += (float(len(resume_mkw)) /
+                        float(len(resume_kw))) * 100
+
+        if candidate.summary:
+            summary_kw = self.keyword_pool.extract_from(candidate.summary)
+            summary_mkw = filter(lambda x: self.has_similar(keywords, x),
+                                summary_kw)
+            if len(summary_mkw) > 0:
+                total_score += (float(len(summary_mkw)) /
+                    float(len(summary_kw))) * 100
+
+        if total_score > 0:
+            return total_score / 2
         return 0
 
 
