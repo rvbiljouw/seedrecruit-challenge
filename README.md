@@ -14,4 +14,11 @@ allow some room in choice of words and their order was a necessity.
 
 ### Usage
 
-To be continued..
+
+#### Short version
+```
+cd seedrecruit-challenge
+pip install -r requirements.txt
+python setup.py install
+python bin/calculator.py <job_description_file> [<profile_files>]
+```
