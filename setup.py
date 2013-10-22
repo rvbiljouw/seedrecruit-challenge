@@ -6,7 +6,7 @@ setup(
     author='Rick van Biljouw',
     author_email='rb10054603@gmail.com',
     packages=['seedrecruit', 'seedrecruit.data',
-              'seedrecruit.util', 'seedrecruit.test'],
+              'seedrecruit.util', 'seedrecruit.tests'],
     scripts=['bin/calculator.py'],
     description='A candidate calculator for seedrecruit',
     install_requires=[

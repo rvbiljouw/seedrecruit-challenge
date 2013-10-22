@@ -1,99 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
-    <lst name="responseHeader">
-        <int name="status">0</int>
-        <int name="QTime">1</int>
-        <lst name="params">
-            <str name="q">user_id:58</str>
-        </lst>
-    </lst>
-    <result name="response" numFound="1" start="0">
-        <doc>
-            <arr name="links">
-                <str>http://www.google.co.in/url?q=http://www.iaeng.org/&amp;sa=U&amp;ei=10ueUcH6OYePrQeOmoHgBg&amp;ved=0CBsQFjAA&amp;sig2=eF2q1tn-bXQrhgtudq7ixw&amp;usg=AFQjCNGDO8Pp5JLQAeRXw9xPRF_xAanftQ</str>
-            </arr>
-            <str name="user_last_name">Sharma</str>
-            <str name="user_id">58</str>
-            <date name="doc_upload_date">2013-09-03T00:00:00Z</date>
-            <str name="linkedin_positions">{"_total":1,"values":[{"company":{"industry":"Computer &amp; Network
-                Security","name":"Python Developer
-                Community"},"id":394976754,"isCurrent":true,"startDate":{"month":3,"year":2012},"summary":"Working on
-                Open Source Software development Life Cycle like Restful API,Lib,Scripts,3rd party plugins in
-                Python,Flask,Django,Web2py.","title":"Open Source Developer"}]}
-            </str>
-            <str name="user_locations">Jaipur Area, India</str>
-            <str name="linkedin_skills">
-                {"_total":39,"values":[{"id":2,"skill":{"name":"Linux"}},{"id":3,"skill":{"name":"Network
-                Security"}},{"id":4,"skill":{"name":"Penetration Testing"}},{"id":5,"skill":{"name":"Core
-                Java"}},{"id":7,"skill":{"name":"CCNA"}},{"id":9,"skill":{"name":"Python"}},{"id":11,"skill":{"name":"Firewalls"}},{"id":13,"skill":{"name":"Web
-                Application Security"}},{"id":14,"skill":{"name":"Red Hat Linux"}},{"id":17,"skill":{"name":"Shell
-                Scripting"}},{"id":27,"skill":{"name":"Web2Py
-                Framework"}},{"id":30,"skill":{"name":"Django"}},{"id":34,"skill":{"name":"PHP"}},{"id":37,"skill":{"name":"AJAX"}},{"id":40,"skill":{"name":"C"}},{"id":41,"skill":{"name":"Apache"}},{"id":42,"skill":{"name":"MySQL"}},{"id":43,"skill":{"name":"Ubuntu"}},{"id":44,"skill":{"name":"Bash"}},{"id":50,"skill":{"name":"Algorithms"}},{"id":52,"skill":{"name":"MongoDB"}},{"id":54,"skill":{"name":"Flask"}},{"id":56,"skill":{"name":"Perl"}},{"id":57,"skill":{"name":"OOP"}},{"id":60,"skill":{"name":"PostgreSQL"}},{"id":61,"skill":{"name":"Eclipse"}},{"id":62,"skill":{"name":"Git"}},{"id":64,"skill":{"name":"Unix"}},{"id":65,"skill":{"name":"jQuery"}},{"id":67,"skill":{"name":"JavaScript"}},{"id":68,"skill":{"name":"REST"}},{"id":69,"skill":{"name":"Servlets"}},{"id":70,"skill":{"name":"C++"}},{"id":71,"skill":{"name":"Spring"}},{"id":72,"skill":{"name":"JSP"}},{"id":73,"skill":{"name":"Open
-                Source"}},{"id":74,"skill":{"name":"Hibernate"}},{"id":75,"skill":{"name":"Web
-                Applications"}},{"id":76,"skill":{"name":"Tomcat"}}]}
-            </str>
-            <str name="id">58</str>
-            <str name="name">Python Developer (Fresher)</str>
-            <str name="user_first_name">Yogendra</str>
-            <str name="linkedin_summary"/>
-            <str name="subject"/>
-            <str name="author">CYBERFOX</str>
-            <str name="author_s">CYBERFOX</str>
-            <arr name="title">
-                <str/>
-            </arr>
-            <str name="keywords"/>
-            <date name="last_modified">2013-08-31T19:17:00Z</date>
-            <arr name="content_type">
-                <str>application/msword</str>
-            </arr>
-            <arr name="content">
-                <str>CAreer Objective
-                    To gain position which can utilize my education, provide me with varied experience, enhance my
-                    skills and at the same time will add value to my organization.
-                    EDUCATIONAL QUALIFICATION
-                    Course Board/university Institution/College Year of Passing Percentage (%) B.Tech (Computer Science
-                    &amp; Engineering) Rajasthan Technical University, Kota Rajasthan Institute of Engineering &amp;
-                    Technology, Jaipur 2012 64.24% Senior Secondary Board of Secondary Education, Rajasthan Adarsh Sen.
-                    Sec. School, Pratapgarh 2008 65.7% Secondary Board of Secondary Education, Rajasthan Saifiyah Sen.
-                    Sec. School, Pratapgarh 2006 67.83% WORK EXPERIENCE “SM Networks Pvt. Ltd.” From “01 June 2012 to 20
-                    June 2013”
-                    JOB PROFILE: IT Engineer, Desktop and Network Support Engineer Responsibilities:
-                    LAN/WAN level 3 support (diagnose and troubleshoot layer 1, 2, 3 problems)
-                    Frame Relay, Full T1, WAN troubleshooting
-                    Cisco 2500, 2600, 3640 Series Access Routers, 5500, 5505,5509 and 2924 Switches
-                    Cisco 6509 layer 2 and Layer 3 Switches
-                    Cisco 3660 Routers and 1900, 2924, 2948 switches
-                    EIGRP and RIP ver 1 &amp; 2 Routing Protocols
-                    Microsoft DHCP and DNS Servers &amp; Microsoft NT and Window 2000 Servers ACADAMIC ACHIEVEMENTS
-                    CCNA(Cisco Certified Network Associate) (CSCO12098683) CCNA SMBEN Certified (CSCO12149351 ) Python
-                    Programmer (RICE University,usa) TECHNICAL SKILLS Languages : C, C++,Python,WxPython, RDBMS Tool :
-                    MYSQL
-                    Web Languages: Django Framework, HTML, CSS, Basic PHP. Expertise Subject: DAA, Theory of
-                    Computation, DSA, Computer Organization, Cryptography &amp; N/W Security. ACHIEVEMENTS &amp;
-                    CO-CURRICULAR ACTIVITIES Member of “ IAENG  (International Association of Engineers) ” (Member
-                    Number: 130562) Participated in Just C , in Tech-Fest Techno-diction 10 &amp;Techno-diction 11 at
-                    R.I.E.T Jaipur.
-                    SEMINARS &amp; WORKSHOPS Attended Ethical Hacking &amp; Information Security Workshop by Sunny
-                    Vaghela (Techdefence Pvt. Ltd). ETHICAL HACKING (Cretifed by IIT Bombay+Techdefence) Attending
-                    I-Phone Application Development &amp; B.A workshop PERSONAL DETAILS Name: Yogendra Sharma
-                    Father’s Name: Mr. Prakash Chandra Sharma Mother’s Name: Mrs. Usha Sharma
-                    Nationality: Indian
-                    Date of Birth: 05 April 1991 Sex: Male
-                    Languages Known: English &amp; Hindi
-                    E-mail ID: eh.yogendra@gmail.com Phone No: 09785055079
-                    Date : 30th Aug 2013 Place : Jaipur Yogendra Sharma
-                    E-mail: eh.yogendra@gmail.com
-                    Phone (M):+91-9785055079
-                    Address: B-12, Goutom Nagar,
-                    Pratapgarh, Rajasthan (312605)
-
-                    Yogendra Sharma
-
-
-                </str>
-            </arr>
-            <long name="_version_">1446379055445180416</long>
-        </doc>
-    </result>
+<lst name="responseHeader"><int name="status">0</int><int name="QTime">1</int><lst name="params"><str name="q">user_id:58</str></lst></lst><result name="response" numFound="1" start="0"><doc><arr name="links"><str>http://www.google.co.in/url?q=http://www.iaeng.org/&amp;sa=U&amp;ei=10ueUcH6OYePrQeOmoHgBg&amp;ved=0CBsQFjAA&amp;sig2=eF2q1tn-bXQrhgtudq7ixw&amp;usg=AFQjCNGDO8Pp5JLQAeRXw9xPRF_xAanftQ</str></arr><str name="user_last_name">Sharma</str><str name="user_id">58</str><date name="doc_upload_date">2013-09-03T00:00:00Z</date><str name="linkedin_positions">{"_total":1,"values":[{"company":{"industry":"Computer &amp; Network Security","name":"Python Developer Community"},"id":394976754,"isCurrent":true,"startDate":{"month":3,"year":2012},"summary":"Working on Open Source Software development Life Cycle like Restful API,Lib,Scripts,3rd party plugins in Python,Flask,Django,Web2py.","title":"Open Source Developer"}]}</str><str name="user_locations">Jaipur Area, India</str><str name="linkedin_skills">{"_total":39,"values":[{"id":2,"skill":{"name":"Linux"}},{"id":3,"skill":{"name":"Network Security"}},{"id":4,"skill":{"name":"Penetration Testing"}},{"id":5,"skill":{"name":"Core Java"}},{"id":7,"skill":{"name":"CCNA"}},{"id":9,"skill":{"name":"Python"}},{"id":11,"skill":{"name":"Firewalls"}},{"id":13,"skill":{"name":"Web Application Security"}},{"id":14,"skill":{"name":"Red Hat Linux"}},{"id":17,"skill":{"name":"Shell Scripting"}},{"id":27,"skill":{"name":"Web2Py Framework"}},{"id":30,"skill":{"name":"Django"}},{"id":34,"skill":{"name":"PHP"}},{"id":37,"skill":{"name":"AJAX"}},{"id":40,"skill":{"name":"C"}},{"id":41,"skill":{"name":"Apache"}},{"id":42,"skill":{"name":"MySQL"}},{"id":43,"skill":{"name":"Ubuntu"}},{"id":44,"skill":{"name":"Bash"}},{"id":50,"skill":{"name":"Algorithms"}},{"id":52,"skill":{"name":"MongoDB"}},{"id":54,"skill":{"name":"Flask"}},{"id":56,"skill":{"name":"Perl"}},{"id":57,"skill":{"name":"OOP"}},{"id":60,"skill":{"name":"PostgreSQL"}},{"id":61,"skill":{"name":"Eclipse"}},{"id":62,"skill":{"name":"Git"}},{"id":64,"skill":{"name":"Unix"}},{"id":65,"skill":{"name":"jQuery"}},{"id":67,"skill":{"name":"JavaScript"}},{"id":68,"skill":{"name":"REST"}},{"id":69,"skill":{"name":"Servlets"}},{"id":70,"skill":{"name":"C++"}},{"id":71,"skill":{"name":"Spring"}},{"id":72,"skill":{"name":"JSP"}},{"id":73,"skill":{"name":"Open Source"}},{"id":74,"skill":{"name":"Hibernate"}},{"id":75,"skill":{"name":"Web Applications"}},{"id":76,"skill":{"name":"Tomcat"}}]}</str><str name="id">58</str><str name="name">Python Developer (Fresher)</str><str name="user_first_name">Yogendra</str><str name="linkedin_summary"/><str name="subject"/><str name="author">CYBERFOX</str><str name="author_s">CYBERFOX</str><arr name="title"><str/></arr><str name="keywords"/><date name="last_modified">2013-08-31T19:17:00Z</date><arr name="content_type"><str>application/msword</str></arr><arr name="content"><str>                                                                                               												     CAreer Objective                                                                                                                                                  
+   To gain position which can utilize my education, provide me with varied experience, enhance my skills and at the same time will add value to my organization.
+   EDUCATIONAL QUALIFICATION                                                                                                          
+        Course      Board/university      Institution/College      Year of Passing      Percentage (%)       B.Tech  (Computer Science &amp; Engineering)    Rajasthan Technical University, Kota    Rajasthan Institute of Engineering &amp; Technology, Jaipur    2012    64.24%      Senior Secondary    Board of Secondary Education, Rajasthan    Adarsh Sen. Sec. School, Pratapgarh    2008    65.7%      Secondary    Board of Secondary Education, Rajasthan    Saifiyah Sen. Sec. School, Pratapgarh    2006    67.83%         WORK EXPERIENCE     “SM Networks Pvt. Ltd.”  From “01 June 2012 to 20 June 2013”
+    JOB PROFILE: IT Engineer, Desktop and Network Support Engineer    Responsibilities:	
+   LAN/WAN level 3 support (diagnose and troubleshoot layer 1, 2, 3 problems) 
+  Frame Relay, Full T1, WAN troubleshooting
+  Cisco 2500, 2600, 3640 Series Access Routers, 5500, 5505,5509 and 2924 Switches
+  Cisco 6509 layer 2 and Layer 3 Switches 
+  Cisco 3660 Routers and 1900, 2924, 2948 switches 
+  EIGRP and RIP ver 1  &amp; 2 Routing Protocols
+  Microsoft DHCP and DNS Servers &amp; Microsoft NT and Window 2000 Servers   ACADAMIC ACHIEVEMENTS    CCNA(Cisco Certified Network Associate) (CSCO12098683)    CCNA SMBEN Certified (CSCO12149351 )   Python Programmer (RICE University,usa)    TECHNICAL SKILLS   Languages      :  C, C++,Python,WxPython,  RDBMS Tool :   MYSQL
+  Web Languages: Django Framework, HTML, CSS, Basic PHP.  Expertise Subject: DAA, Theory of Computation, DSA, Computer Organization, Cryptography &amp; N/W Security.   ACHIEVEMENTS &amp; CO-CURRICULAR ACTIVITIES   Member of   “ IAENG  (International Association of Engineers)  ” (Member Number: 130562)  Participated in Just  C , in Tech-Fest  Techno-diction 10 &amp;Techno-diction 11  at  R.I.E.T Jaipur.
+    SEMINARS &amp; WORKSHOPS	   Attended  Ethical Hacking &amp; Information Security  Workshop by Sunny Vaghela (Techdefence Pvt. Ltd).   ETHICAL HACKING  (Cretifed by IIT Bombay+Techdefence)  Attending  I-Phone Application Development  &amp;  B.A  workshop   PERSONAL DETAILS	   Name:					Yogendra Sharma                                 
+  Father’s Name:			Mr. Prakash Chandra Sharma  Mother’s Name:			Mrs. Usha Sharma
+  Nationality:				Indian
+  Date of Birth:				05 April 1991  Sex:			 Male
+  Languages Known:			English &amp; Hindi
+  E-mail ID:				eh.yogendra@gmail.com	  Phone No:				09785055079
+    Date    : 30th Aug  2013										  Place    :   Jaipur									 Yogendra Sharma   
+  E-mail: eh.yogendra@gmail.com
+  Phone (M):+91-9785055079
+  Address: B-12, Goutom Nagar,
+  Pratapgarh, Rajasthan (312605)
+  
+  Yogendra Sharma
+  
+  
+   </str></arr><long name="_version_">1446379055445180416</long></doc></result>
 </response>

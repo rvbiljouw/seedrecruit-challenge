@@ -34,7 +34,7 @@ class Calculator(object):
 
 if __name__ == "__main__":
     if len(argv) < 2:
-        print "Usage: ./calculator.py <path_to_jobdesc> [<candidate_file>]"
+        print "Usage: python calculator.py <path_to_jobdesc> [<candidate_file>]"
         exit(255)
     instance = Calculator(argv[1], argv[2:])
     instance.run()
