@@ -16,9 +16,19 @@ allow some room in choice of words and their order was a necessity.
 
 
 #### Short version
+
+Execute the following commands.
 ```
 cd seedrecruit-challenge
+virtualenv venv
+source venv/bin/activate
 pip install -r requirements.txt
 python setup.py install
 python bin/calculator.py <job_description_file> [<profile_files>]
 ```
+
+You can run the program on the sample files under "samples" using the following command:
+```
+python bin/calculator.py samples/job_description.xml samples/profile1.xml samples/profile2.xml samples/profile3.xml samples/profile4.xml samples/profile5.xml
+```
+To save the resulting JSON, just pipe it to a file ;)
